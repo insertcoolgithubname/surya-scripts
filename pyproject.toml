@@ -93,4 +93,4 @@ dependencies = [
 
 
 [project.scripts]
-to-latex = "ocr-to-latex:main"
+to-latex = "ocr_to_latex:main"
